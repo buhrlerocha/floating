@@ -1,0 +1,21 @@
+.contenedor {
+	border: 1px solid black;
+}
+
+.yellow {
+	width: 180px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.blue {
+	width: 180px;
+	height: 100px;
+	background-color: blue;
+}
+
+.red {
+	width: 180px;
+	height: 100px;
+	background-color: red;
+}

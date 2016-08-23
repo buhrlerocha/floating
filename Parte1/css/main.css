@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+.contenedor {
+	border: 1px solid black;
+	width: 700px;
+}
+
+.yellow {
+	width: 25%;
+	height: 100px;
+	background-color: yellow;
+}
+
+.blue {
+	width: 25%;
+	height: 100px;
+	background-color: blue;
+}
+
+.red {
+	width: 25%;
+	height: 100px;
+	background-color: red;
+}

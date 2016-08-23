@@ -1,0 +1,25 @@
+.contenedor {
+	border: 1px solid black;
+	width: 700px;
+}
+
+.yellow {
+	width: 25%;
+	height: 100px;
+	background-color: yellow;
+	float: left;
+}
+
+.blue {
+	width: 25%;
+	height: 100px;
+	background-color: blue;
+	float: left;
+}
+
+.red {
+	width: 25%;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
